@@ -1,8 +1,8 @@
-<h2 align="center" style="margin-top: 0px;">Fedoraware</h2>  
+<h2 align="center" style="margin-top: 0px;">Wës Hфllůst</h2>  
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="200" src=".github/assets/fedoraware.png" alt="Fedoraware logo." align="center">
 </p>
-<h2 align="center" style="margin-top: 0px;">SE-Owned but coollllll</h2>
+<h2 align="center" style="margin-top: 0px;">Another copy of SeO...</h2>
 <p align="center">
 <a href="https://github.com/stax132349/Fedoraware/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/stax132349/Fedoraware"></a>
 <a href="https://discord.gg/YcVKhnAAEY"><img alt="Fedoraware Discord Server" src="https://img.shields.io/discord/1069923050499354624?label=Discord&logo=Discord"></a>
@@ -20,7 +20,6 @@
 
 ## Notes:
 - It is required to use dxlevel 90+ due to issues with ImGui.
-- You might have issues with injecting if you are on Windows 10 upgraded from Windows 7.
 - The source code is most likely __DETECTED__, use [VAC Bypass by danielkrupinski](https://github.com/danielkrupinski/VAC-Bypass). In the event you get VAC Banned, we are not responsible. Don't cheat on accounts you care about.
 - Read the [Fedoraware Documentation](https://fedoraware.github.io/Docs/) to learn more about Fedoraware and its Features.
 
@@ -60,3 +59,4 @@
   - [wsock](https://github.com/wsock)
   - [hyperventilation](https://github.com/hyperventilation)
   - [frel0](https://github.com/frel0)
+  - [All FeD users]
